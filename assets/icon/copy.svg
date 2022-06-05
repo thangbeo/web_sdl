@@ -1,0 +1,36 @@
+  <svg
+      id="Layer_1"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 13.52 16.04"
+    >
+      <defs>
+        <style>
+          .cls-1,
+          .cls-2 {
+            fill: none;
+            stroke: #3f69b8;
+            stroke-width: 1.5px;
+          }
+          .cls-2 {
+            stroke-dasharray: 14 41;
+          }
+        </style>
+      </defs>
+      <g id="Rectangle_459" data-name="Rectangle 459">
+        <rect
+          class="cls-1"
+          stroke-width="1.5"
+          x="3.31"
+          y="3.28"
+          width="9.45"
+          height="11.97"
+          rx="2.25"
+        />
+      </g>
+      <path
+        class="cls-2"
+        stroke-width="1.5"
+        d="M.79,9.48V4A3.24,3.24,0,0,1,4,.76H7"
+      />
+    </svg>

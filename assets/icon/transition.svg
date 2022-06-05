@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Group_4428" data-name="Group 4428" transform="translate(-454 -109)">
+    <circle id="Ellipse_77" data-name="Ellipse 77" cx="22" cy="22" r="22" transform="translate(454 109)" fill="#fff8fa"/>
+    <g id="Group_4429" data-name="Group 4429" transform="translate(-272 -64.076)">
+      <line id="Line_42" data-name="Line 42" y2="15.556" transform="translate(739.778 189.52)" fill="none" stroke="#ff0f59" stroke-width="1.5"/>
+      <line id="Line_43" data-name="Line 43" y2="15.556" transform="translate(747.556 185.076)" fill="none" stroke="#ff0f59" stroke-width="1.5"/>
+      <line id="Line_44" data-name="Line 44" y2="13.587" transform="translate(755.333 190.873)" fill="none" stroke="#ff0f59" stroke-width="1.5"/>
+      <g id="Rectangle_404" data-name="Rectangle 404" transform="translate(737 193.409)" fill="#ff0f59" stroke="#ff0f59" stroke-width="1.5">
+        <rect width="5.556" height="10" stroke="none"/>
+        <rect x="0.75" y="0.75" width="4.056" height="8.5" fill="none"/>
+      </g>
+      <g id="Rectangle_405" data-name="Rectangle 405" transform="translate(744.778 186.742)" fill="#ff0f59" stroke="#ff0f59" stroke-width="1.5">
+        <rect width="5.556" height="10.372" stroke="none"/>
+        <rect x="0.75" y="0.75" width="4.056" height="8.872" fill="none"/>
+      </g>
+      <g id="Rectangle_406" data-name="Rectangle 406" transform="translate(752.556 192.302)" fill="#ff0f59" stroke="#ff0f59" stroke-width="1.5">
+        <rect width="5.556" height="9.752" stroke="none"/>
+        <rect x="0.75" y="0.75" width="4.056" height="8.252" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

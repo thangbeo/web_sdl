@@ -1,0 +1,18 @@
+<svg id="Group_4246" data-name="Group 4246" xmlns="http://www.w3.org/2000/svg" width="19.408" height="16.376" viewBox="0 0 19.408 16.376">
+  <g id="Rectangle_159" data-name="Rectangle 159" transform="translate(0 1.82)" fill="none" stroke="#656565" stroke-width="1.5">
+    <rect width="19.408" height="14.556" rx="2" stroke="none"/>
+    <rect x="0.75" y="0.75" width="17.908" height="13.056" rx="1.25" fill="none"/>
+  </g>
+  <line id="Line_28" data-name="Line 28" y2="4.368" transform="translate(5.648)" fill="none" stroke="#656565" stroke-width="1.5"/>
+  <line id="Line_38" data-name="Line 38" x1="18.423" transform="translate(0.512 6.17)" fill="none" stroke="#656565" stroke-width="1.5"/>
+  <line id="Line_29" data-name="Line 29" y2="4.368" transform="translate(13.76)" fill="none" stroke="#656565" stroke-width="1.5"/>
+  <path id="Path_13111" data-name="Path 13111" d="M-.17.084,17,0V4L-.17,4.084Z" transform="translate(1.521 2)" fill="#656565"/>
+  <g id="Group_4248" data-name="Group 4248" transform="translate(3.817 9.24)">
+    <line id="Line_31" data-name="Line 31" x1="2.426" fill="none" stroke="#656565" stroke-width="1.5"/>
+    <line id="Line_36" data-name="Line 36" x1="2.426" transform="translate(0 3.639)" fill="none" stroke="#656565" stroke-width="1.5"/>
+    <line id="Line_32" data-name="Line 32" x1="2.426" transform="translate(4.46)" fill="none" stroke="#656565" stroke-width="1.5"/>
+    <line id="Line_35" data-name="Line 35" x1="2.426" transform="translate(4.46 3.639)" fill="none" stroke="#656565" stroke-width="1.5"/>
+    <line id="Line_37" data-name="Line 37" x1="2.426" transform="translate(8.919 3.639)" fill="none" stroke="#656565" stroke-width="1.5"/>
+    <line id="Line_33" data-name="Line 33" x1="2.426" transform="translate(8.919)" fill="none" stroke="#656565" stroke-width="1.5"/>
+  </g>
+</svg>
